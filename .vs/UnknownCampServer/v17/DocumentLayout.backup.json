@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Unity Projects\\UnknownCampServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FE262-A847-469C-885F-6A1DF258D812}|UnknownCampServer.API\\UnknownCampServer.API.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3FE262-A847-469C-885F-6A1DF258D812}|UnknownCampServer.API\\UnknownCampServer.API.csproj|solutionrelative:unknowncampserver.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B99B01-9DF3-456F-9651-4A84EDA88D33}|UnknownCampServer.Infrastructure\\UnknownCampServer.Infrastructure.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.infrastructure\\services\\treasureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B99B01-9DF3-456F-9651-4A84EDA88D33}|UnknownCampServer.Infrastructure\\UnknownCampServer.Infrastructure.csproj|solutionrelative:unknowncampserver.infrastructure\\services\\treasureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.core\\services\\itreasureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|solutionrelative:unknowncampserver.core\\services\\itreasureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.core\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|solutionrelative:unknowncampserver.core\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.core\\repositories\\iemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|solutionrelative:unknowncampserver.core\\repositories\\iemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FE262-A847-469C-885F-6A1DF258D812}|UnknownCampServer.API\\UnknownCampServer.API.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3FE262-A847-469C-885F-6A1DF258D812}|UnknownCampServer.API\\UnknownCampServer.API.csproj|solutionrelative:unknowncampserver.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.core\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|solutionrelative:unknowncampserver.core\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.core\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|solutionrelative:unknowncampserver.core\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B99B01-9DF3-456F-9651-4A84EDA88D33}|UnknownCampServer.Infrastructure\\UnknownCampServer.Infrastructure.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B99B01-9DF3-456F-9651-4A84EDA88D33}|UnknownCampServer.Infrastructure\\UnknownCampServer.Infrastructure.csproj|solutionrelative:unknowncampserver.infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.core\\entities\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B9AB6D-17D0-455E-A34E-6914B87EF8F1}|UnknownCampServer.Core\\UnknownCampServer.Core.csproj|solutionrelative:unknowncampserver.core\\entities\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B99B01-9DF3-456F-9651-4A84EDA88D33}|UnknownCampServer.Infrastructure\\UnknownCampServer.Infrastructure.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.infrastructure\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B99B01-9DF3-456F-9651-4A84EDA88D33}|UnknownCampServer.Infrastructure\\UnknownCampServer.Infrastructure.csproj|solutionrelative:unknowncampserver.infrastructure\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FE262-A847-469C-885F-6A1DF258D812}|UnknownCampServer.API\\UnknownCampServer.API.csproj|d:\\unity\\unity projects\\unknowncampserver\\unknowncampserver.api\\controllers\\appconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3FE262-A847-469C-885F-6A1DF258D812}|UnknownCampServer.API\\UnknownCampServer.API.csproj|solutionrelative:unknowncampserver.api\\controllers\\appconfigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Core\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "UnknownCampServer.Core\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:04:40.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreasureService.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Infrastructure\\Services\\TreasureService.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Infrastructure\\Services\\TreasureService.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Infrastructure\\Services\\TreasureService.cs",
+              "RelativeToolTip": "UnknownCampServer.Infrastructure\\Services\\TreasureService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:55:26.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITreasureService.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Services\\ITreasureService.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Core\\Services\\ITreasureService.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Services\\ITreasureService.cs",
+              "RelativeToolTip": "UnknownCampServer.Core\\Services\\ITreasureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:04:49.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Core\\Entities\\Account.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Entities\\Account.cs",
+              "RelativeToolTip": "UnknownCampServer.Core\\Entities\\Account.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:02:37.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "UnknownCampServer.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:04:59.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Core\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Services\\IEmailService.cs",
+              "RelativeToolTip": "UnknownCampServer.Core\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:04:41.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.API\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.API\\Controllers\\EmailController.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.API\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "UnknownCampServer.API\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:04:42.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailRepository.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Repositories\\IEmailRepository.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Core\\Repositories\\IEmailRepository.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Repositories\\IEmailRepository.cs",
+              "RelativeToolTip": "UnknownCampServer.Core\\Repositories\\IEmailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:04:47.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Treasure.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Entities\\Treasure.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Core\\Entities\\Treasure.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Core\\Entities\\Treasure.cs",
+              "RelativeToolTip": "UnknownCampServer.Core\\Entities\\Treasure.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:54:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppConfigController.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.API\\Controllers\\AppConfigController.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.API\\Controllers\\AppConfigController.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.API\\Controllers\\AppConfigController.cs",
+              "RelativeToolTip": "UnknownCampServer.API\\Controllers\\AppConfigController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:04:55.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Infrastructure\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Infrastructure\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Infrastructure\\Services\\AccountService.cs",
+              "RelativeToolTip": "UnknownCampServer.Infrastructure\\Services\\AccountService.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAkwNcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:04:38.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Infrastructure\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "UnknownCampServer.Infrastructure\\Services\\PasswordService.cs",
+              "ToolTip": "D:\\Unity\\Unity Projects\\UnknownCampServer\\UnknownCampServer.Infrastructure\\Services\\PasswordService.cs",
+              "RelativeToolTip": "UnknownCampServer.Infrastructure\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:28:39.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

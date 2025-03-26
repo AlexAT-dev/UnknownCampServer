@@ -1,0 +1,226 @@
+[
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AccountController",
+    "Method": "GetAccount",
+    "RelativePath": "api/Account/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AccountController",
+    "Method": "AddMatches",
+    "RelativePath": "api/Account/{id}/AddMatches/{matches}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "matches",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AccountController",
+    "Method": "BuyMatchBox",
+    "RelativePath": "api/Account/{id}/BuyMatchBox",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AccountController",
+    "Method": "OpenTreasure",
+    "RelativePath": "api/Account/{id}/OpenTreasure/{treasureId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "treasureId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AccountController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/Account/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountDTO",
+        "Type": "UnknownCampServer.Core.DTOs.AccountRegDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "UnknownCampServer.Core.DTOs.AccountLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AppConfigController",
+    "Method": "GetGameVersion",
+    "RelativePath": "api/AppConfig/GameVersion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AppConfigController",
+    "Method": "GetResourcesVersion",
+    "RelativePath": "api/AppConfig/ResourcesVersion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.AppConfigController",
+    "Method": "GetServerVersion",
+    "RelativePath": "api/AppConfig/ServerVersion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.EmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Email/SendTo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UnknownCampServer.Core.Models.EmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.EmailController",
+    "Method": "SendEmailToAll",
+    "RelativePath": "api/Email/SendToAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UnknownCampServer.Core.Models.EmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.TreasureController",
+    "Method": "AddMockTreasure",
+    "RelativePath": "api/Treasure/add-mock-treasure",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnknownCampServer.API.Controllers.VerificationController",
+    "Method": "VerifyEmail",
+    "RelativePath": "Verification/verify-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
